@@ -15,8 +15,9 @@ const Login = () => {
         <div className='bg-red-400 shadow-lg w-full h-full rounded-3xl absolute transform rotate-6'>
         <div className='relative w-full rounded-3xl ox-6 py-4 bg-gray-100 shadow-md'>
             <label for="" className='block mt-3 text-sm text-gray-700 text-center font-semibold '>
-                register
+                
             </label>
+            
         </div>
 
         </div>
